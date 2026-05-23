@@ -1,11 +1,11 @@
-# Actividad: Arreglos
+# Actividad: Operadores Lógicos
 ## Descripción
-Programa que captura valores en un arreglo y calcula promedio.
+Programa que evaluaba la situación academica del estudiante ademas si cumplia ciertos requisitos podia ser elegible para una beca 
 ## Temas aplicados
-- arreglos
-- ciclos
-- funciones
+- if else
+- operadores logicos
+- if anidado
 ## Compilación
-gcc main.c -o programa
+gcc evaluacion.c
 ## Ejecución
-./programa
+./evaluacion
