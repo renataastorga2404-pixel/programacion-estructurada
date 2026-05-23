@@ -57,11 +57,11 @@ return 0;
 #include <stdio.h>
 
 int main(){
-int promedio;
+float promedio;
 int materias;
 
 printf("Ingresa tu promedio actual:\n");
-scanf("%d",& promedio);
+scanf("%f",& promedio);
 
 printf("Ingresa la cantidad de materias reprobadas:\n");
 scanf("%d",&materias);
