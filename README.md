@@ -10,4 +10,16 @@ Repositorio de actividades y evidencias desarrolladas durante el curso de
 Programación Estructurada en lenguaje C.
 
 ## Temas trabajados
-if else
+-Tipo de datos
+-Operadores
+-Ciclo de vida del software
+-if else y switch
+-estructuras de control
+-Arreglos y matrices
+-strings
+-file
+-Funciones
+-Punteros y memoria 
+-struct y union
+
+-pun
