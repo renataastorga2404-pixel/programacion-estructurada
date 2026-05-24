@@ -1,12 +1,13 @@
 # Actividad: Tipos de datos 
 ## Descripción
-Es un programa que utiliza un menu para conocer la información de los tipos de datos en el lenguaje c
+Este programa tiene un menu interactivo y ciclico que funciona como si fuera una guia informativa sobre los diferentes tipos de datos nativos en el lenguaje C como int,float,double,char etc. Al seleccionar una opcion el sistema te da sus características principales del tipo de dato elegigido.además te permite salir del programa.
 
 ## Temas aplicados
--tipos de datos
+-tipos de datos primitivos
 -while
 -switch
+especificadores de formato %d,%c,%f
 ## Compilación
-gcc datos.c
+gcc main.c -oprog_datos
 ## Ejecución 
-.\datos
+.\prog_datos
