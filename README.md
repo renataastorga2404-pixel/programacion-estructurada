@@ -1,9 +1,13 @@
 # programacion-estructurada
 
-Nombre del estudiante: Renata Itzel Astorga García
-Código: 222924044
-Sección: D04
-Profesor: Jorge Ernesto Lopez Arce Delgado
+#### Nombre del estudiante: 
+Renata Itzel Astorga García
+#### Código:
+222924044
+#### Sección:
+D04
+##### Profesor:
+Jorge Ernesto Lopez Arce Delgado
 
 ## Descripción
 Repositorio de actividades y evidencias desarrolladas durante el curso de
